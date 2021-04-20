@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ramspagilla
+- 👋 Hi, I’m @ramesh pagilla
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Fullstack .net
 - 💞️ I’m looking to collaborate on c# Projects
