@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ramesh pagilla
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Fullstack .net
-- 💞️ I’m looking to collaborate on c# Projects
+- 👀I am in lovewith Salesforce
+- 🌱 Fullstack .net Developer
 - 📫 reach me : pagilla3@gmail.com
 
 <!---
